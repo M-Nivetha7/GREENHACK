@@ -1,7 +1,8 @@
 # 🌱 Image Processing
 
-GREENHACK is a project developed during a hackathon to leverage AI/ML and web technologies for solving real-world problems.
-This repository contains:
+An image processing website that lets users upload, edit, and analyze images using advanced filters and AI-powered tools.
+It provides real-time enhancements, object detection, and feature extraction for smarter visual insights.
+
 
 * A **React frontend** (`src/`, `public/`)
 * A **Machine Learning Notebook** (`ssn_complete(1).ipynb`)
