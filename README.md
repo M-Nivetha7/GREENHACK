@@ -1,4 +1,4 @@
-# 🌱 GREENHACK
+# 🌱 Image Processing
 
 GREENHACK is a project developed during a hackathon to leverage AI/ML and web technologies for solving real-world problems.
 This repository contains:
